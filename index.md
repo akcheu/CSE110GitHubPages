@@ -4,17 +4,17 @@
 
 ## Directory
 
-1. [About Me](https://github.com/akcheu/CSE110GitHubPages/blob/main/index.md#about-me)
+1. [About Me](https://akcheu.github.io/CSE110GitHubPages/#about-me)
 
-2. [Coursework](https://github.com/akcheu/CSE110GitHubPages/blob/main/index.md#coursework)
+2. [Coursework](https://akcheu.github.io/CSE110GitHubPages/#coursework)
 
-3. [Programming Languages](https://github.com/akcheu/CSE110GitHubPages/blob/main/index.md#programming-languages)
+3. [Programming Languages](https://akcheu.github.io/CSE110GitHubPages/#programming-languages)
    
-4. [Skills](https://github.com/akcheu/CSE110GitHubPages/blob/main/index.md#skills)
+4. [Skills](https://akcheu.github.io/CSE110GitHubPages/#skills)
 
-5. [Goals](https://github.com/akcheu/CSE110GitHubPages/blob/main/index.md#goals)
+5. [Goals](https://akcheu.github.io/CSE110GitHubPages/#goals)
 
-6. [Social Media](https://github.com/akcheu/CSE110GitHubPages/blob/main/index.md#social-media)
+6. [Social Media](https://akcheu.github.io/CSE110GitHubPages/#social-media)
 
 ## About Me
 
