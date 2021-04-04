@@ -10,9 +10,11 @@
 
 3. [Programming Languages](https://github.com/akcheu/CSE110GitHubPages/blob/main/index.md#programming-languages)
    
-4. [Skills]
+4. [Skills](https://github.com/akcheu/CSE110GitHubPages/blob/main/index.md#skills)
 
-5. [Social Media](https://github.com/akcheu/CSE110GitHubPages/blob/main/index.md#social-media)
+5. [Goals](https://github.com/akcheu/CSE110GitHubPages/blob/main/index.md#goals)
+
+6. [Social Media](https://github.com/akcheu/CSE110GitHubPages/blob/main/index.md#social-media)
 
 ## About Me
 
@@ -85,6 +87,13 @@ See my [README](/README.md) for more about my favorite programming language!
 - 3D Modeling (Fusion 360)
 - 3D Animation (Adobe Animate)
 - Final Cut Pro
+
+## Goals
+
+- [x] Practice interviewing
+- [ ] Finish 100 Leetcode Problems
+- [x] Enroll in classes
+- [ ] Work on research project
 
 ## Social Media
 
