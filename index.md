@@ -46,7 +46,11 @@ public static void main(String args[]) {
 print("Hello World")
 ```
 
+See my [README](/README.md) for more about my favorite programming language!
+
 ## Social Media
+
 [LinkedIn](https://www.linkedin.com/in/akcheung/)
+
 [Instagram](https://www.instagram.com/allen.cheungz/)
 
