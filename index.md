@@ -2,18 +2,19 @@
 
 <img src="ProfilePic.jpg" alt="ProfilePic" width="200"/>
 
-**About Me**
+## About Me
 
 Hello! My name is Allen and I am a third year *Computer Engineering* major at UC San Diego. During my free time, I love to draw, paint, or play the piano. I also enjoy playing badminton or table tennis with my friends!
 
-**Coursework**
-CSE 101 - Design and Analysis of Algorithms:
+## Coursework
+
+**CSE 101 - Design and Analysis of Algorithms:**
 > Design and analysis of efficient algorithms with emphasis of nonnumerical algorithms such as sorting, searching, pattern matching, and graph and network algorithms. Measuring complexity of algorithms, time and storage. NP-complete problems.
 
-CSE 110 - Software Engineering:
+**CSE 110 - Software Engineering:**
 > Introduction to software development and engineering methods, including specification, design, implementation, testing, and process. An emphasis on team development, agile methods, and use of tools such as IDE’s, version control, and test harnesses.
 
-CSE 140 - Components and Design Techniques for Digital Systems:
+**CSE 140 - Components and Design Techniques for Digital Systems:**
 > Design of Boolean logic and finite state machines; two-level, multilevel combinational logic design, combinational modules and modular networks, Mealy and Moore machines, analysis and synthesis of canonical forms, sequential modules. 
 
 
