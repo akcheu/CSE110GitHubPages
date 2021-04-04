@@ -1,6 +1,6 @@
 # Allen Cheung
 
-![alt text] (ProfilePic.jpg)
+![Profile Pic](ProfilePic.jpg)
 
 ok
 
