@@ -17,6 +17,31 @@ Hello! My name is Allen and I am a third year *Computer Engineering* major at UC
 **CSE 140 - Components and Design Techniques for Digital Systems:**
 > Design of Boolean logic and finite state machines; two-level, multilevel combinational logic design, combinational modules and modular networks, Mealy and Moore machines, analysis and synthesis of canonical forms, sequential modules. 
 
+## Programming Languages
 
+**C++**
+
+```
+#include <iostream>
+int main() {
+    cout << "Hello World" << endl;
+}
+```
+
+**Java**
+
+```
+import java.util.*
+public static void main(String args[]) {
+    System.out.println("Hello World");
+}
+```
+
+
+**Python**
+
+```
+print("Hello World")
+```
 
 
