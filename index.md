@@ -46,7 +46,7 @@ public static void main(String args[]) {
 print("Hello World")
 ```
 
-See my [README](/README.md) for more about my favorite programming language!
+See my [README](add-readme-2/README.md) for more about my favorite programming language!
 
 ## Social Media
 
