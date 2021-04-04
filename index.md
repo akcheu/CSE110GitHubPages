@@ -18,7 +18,7 @@
 
 ## About Me
 
-Hello! My name is Allen and I am a third year *Computer Engineering* major at UC San Diego. During my free time, I love to draw, paint, or play the piano. I also enjoy playing badminton or table tennis with my friends!
+Hello! My name is Allen and I am a third year *Computer Engineering* major at [UC San Diego](https://ucsd.edu/). During my free time, I love to draw, paint, or play the piano. I also enjoy playing badminton or table tennis with my friends!
 
 ## Coursework
 
