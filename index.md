@@ -4,13 +4,15 @@
 
 ## Directory
 
-- [About Me](https://github.com/akcheu/CSE110GitHubPages/blob/main/index.md#about-me)
+1. [About Me](https://github.com/akcheu/CSE110GitHubPages/blob/main/index.md#about-me)
 
-- [Coursework](https://github.com/akcheu/CSE110GitHubPages/blob/main/index.md#coursework)
+2. [Coursework](https://github.com/akcheu/CSE110GitHubPages/blob/main/index.md#coursework)
 
-- [Programming Languages](https://github.com/akcheu/CSE110GitHubPages/blob/main/index.md#programming-languages)
+3. [Programming Languages](https://github.com/akcheu/CSE110GitHubPages/blob/main/index.md#programming-languages)
+   
+4. [Skills]
 
-- [Social Media](https://github.com/akcheu/CSE110GitHubPages/blob/main/index.md#social-media)
+5. [Social Media](https://github.com/akcheu/CSE110GitHubPages/blob/main/index.md#social-media)
 
 ## About Me
 
@@ -57,6 +59,32 @@ print("Hello World")
 ```
 
 See my [README](/README.md) for more about my favorite programming language!
+
+
+## Skills
+
+**Technical Skills**
+
+- C++ (Proficient)
+- Java (Proficient)
+- Python (PyTorch & TensorFlow)
+- LUA
+- MATLAB
+- Unix (Bash)
+- HTML
+- MIPS
+- Docker
+- Kubernetes
+- OpenGL
+
+
+**Other Skills**
+
+- Graphic & Web Design
+- Industrial Design
+- 3D Modeling (Fusion 360)
+- 3D Animation (Adobe Animate)
+- Final Cut Pro
 
 ## Social Media
 
