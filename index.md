@@ -2,6 +2,13 @@
 
 <img src="ProfilePic.jpg" alt="ProfilePic" width="200"/>
 
+## Directory
+
+[About Me](https://github.com/akcheu/CSE110GitHubPages/blob/main/index.md#about-me)
+[Coursework](https://github.com/akcheu/CSE110GitHubPages/blob/main/index.md#coursework)
+[Programming Languages](https://github.com/akcheu/CSE110GitHubPages/blob/main/index.md#programming-languages)
+[Social Media](https://github.com/akcheu/CSE110GitHubPages/blob/main/index.md#social-media)
+
 ## About Me
 
 Hello! My name is Allen and I am a third year *Computer Engineering* major at UC San Diego. During my free time, I love to draw, paint, or play the piano. I also enjoy playing badminton or table tennis with my friends!
@@ -46,7 +53,7 @@ public static void main(String args[]) {
 print("Hello World")
 ```
 
-See my [README](add-readme-2/README.md) for more about my favorite programming language!
+See my [README](/README.md) for more about my favorite programming language!
 
 ## Social Media
 
