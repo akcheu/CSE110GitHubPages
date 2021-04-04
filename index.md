@@ -17,6 +17,8 @@ Hello! My name is Allen and I am a third year *Computer Engineering* major at UC
 **CSE 140 - Components and Design Techniques for Digital Systems:**
 > Design of Boolean logic and finite state machines; two-level, multilevel combinational logic design, combinational modules and modular networks, Mealy and Moore machines, analysis and synthesis of canonical forms, sequential modules. 
 
+For full course descriptions and prerequisite courses, go to [Course Catalog](https://catalog.ucsd.edu/courses/CSE.html)
+
 ## Programming Languages
 
 **C++**
