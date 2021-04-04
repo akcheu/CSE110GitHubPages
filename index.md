@@ -46,4 +46,7 @@ public static void main(String args[]) {
 print("Hello World")
 ```
 
+## Social Media
+[LinkedIn](https://www.linkedin.com/in/akcheung/)
+[Instagram](https://www.instagram.com/allen.cheungz/)
 
