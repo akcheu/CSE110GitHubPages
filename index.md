@@ -1,5 +1,7 @@
 # Allen Cheung
 
-![alt text] (/images/ProfilePic.jpg)
+![alt text] (ProfilePic.jpg)
+
+ok
 
 **This is a test**
